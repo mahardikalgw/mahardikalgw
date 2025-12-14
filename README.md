@@ -1,6 +1,5 @@
-<table style="border: none; border-collapse: collapse; border-spacing: 0;">
-<tr style="border: none;">
-<td width="40%" valign="top" style="border: none; padding: 0;">
+<div>
+<div style="float: left; width: 40%;">
 
 # 👋 Hi, I'm Mahardika
 
@@ -12,14 +11,14 @@
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/mahardikalgw)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
 
-</td>
-<td width="60%" valign="top" align="center" style="border: none; padding: 0;">
+</div>
+<div style="float: right; width: 60%; text-align: center;">
 
 <img src="https://github-readme-stats.vercel.app/api?username=mahardikalgw&show_icons=true&theme=merko" alt="GitHub stats" />
 
-</td>
-</tr>
-</table>
+</div>
+<div style="clear: both;"></div>
+</div>
 
 ## 💼 About Me
 
