@@ -1,6 +1,6 @@
-<table border="0">
-<tr>
-<td width="40%" valign="top">
+<table style="border: none; border-collapse: collapse; border-spacing: 0;">
+<tr style="border: none;">
+<td width="40%" valign="top" style="border: none; padding: 0;">
 
 # 👋 Hi, I'm Mahardika
 
@@ -13,7 +13,7 @@
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
 
 </td>
-<td width="60%" valign="top" align="center">
+<td width="60%" valign="top" align="center" style="border: none; padding: 0;">
 
 <img src="https://github-readme-stats.vercel.app/api?username=mahardikalgw&show_icons=true&theme=merko" alt="GitHub stats" />
 
