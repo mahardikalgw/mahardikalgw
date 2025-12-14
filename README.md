@@ -12,7 +12,12 @@
 
 </div>
 
----
+
+<div align="left">
+  
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=mahardikalgw&show_icons=true&theme=merko)
+  
+</div>
 
 ## 💼 About Me
 
@@ -55,15 +60,6 @@ Currently on a journey to become a **Technical Architect**, combining my program
   <img src="https://img.shields.io/badge/Technical_Leadership-4ECDC4?style=for-the-badge&logo=trello&logoColor=white" alt="Technical Leadership" />
 </div>
 
----
-
-## 📊 GitHub Statistics
-
-<div align="left">
-  
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=mahardikalgw&show_icons=true&theme=merko)
-  
-</div>
 
 ---
 
