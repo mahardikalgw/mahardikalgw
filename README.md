@@ -61,7 +61,7 @@ Currently on a journey to become a **Technical Architect**, combining my program
 
 <div align="center">
   
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=mahardikalgw&show_icons=true&theme=default&bg_color=ffffff&title_color=000000&text_color=333333&include_all_commits=true&count_private=true)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=mahardikalgw&show_icons=true&theme=dark)
   
 </div>
 
