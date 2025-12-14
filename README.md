@@ -28,7 +28,7 @@ With a strong focus on **backend development** and **blockchain technologies**, 
 
 Currently on a journey to become a **Technical Architect**, combining my programming expertise with leadership skills to design and implement robust system architectures.
 
----
+--
 
 ## 🛠️ Tech Stack
 <div>
@@ -62,7 +62,7 @@ Currently on a journey to become a **Technical Architect**, combining my program
 </div>
 
 
----
+--
 
 ## 📈 GitHub Activity Graph
 
