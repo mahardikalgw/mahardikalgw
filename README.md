@@ -1,7 +1,7 @@
 <table>
-  <tr>
-    <td valign="top" width="50%">
-      
+<tr>
+<td width="60%" valign="top">
+
 # 👋 Hi, I'm Mahardika
 
 ### 🚀 Software Engineer | Backend & Blockchain Specialist
@@ -12,13 +12,13 @@
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/mahardikalgw)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
 
-    </td>
-    <td valign="top" width="50%">
-      
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=mahardikalgw&show_icons=true&theme=merko)
+</td>
+<td width="40%" valign="top" align="right">
 
-    </td>
-  </tr>
+<img src="https://github-readme-stats.vercel.app/api?username=mahardikalgw&show_icons=true&theme=merko" alt="GitHub stats" />
+
+</td>
+</tr>
 </table>
 
 ## 💼 About Me
