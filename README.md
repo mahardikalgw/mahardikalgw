@@ -16,7 +16,7 @@
 
 ## 💼 About Me
 
-I'm a **Software Engineer** at **[Onama Digital](https://onamadigital.com)** building **Pilama** product. 
+I'm a **Software Engineer**, right now building **Pilama** product to enchantment my career. 
 
 With a strong focus on **backend development** and **blockchain technologies**, I specialize in building scalable, high-performance systems using **Node.js/TypeScript**, **Java**, and **Rust**. I also work with frontend technologies using **Next.js** to create seamless full-stack applications.
 
@@ -25,8 +25,6 @@ Currently on a journey to become a **Technical Architect**, combining my program
 ---
 
 ## 🛠️ Tech Stack
-
-### Backend & Blockchain
 <div>
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
   <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
@@ -36,8 +34,6 @@ Currently on a journey to become a **Technical Architect**, combining my program
   <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white" alt="Spring Boot" />
   <img src="https://img.shields.io/badge/Web3.js-F16822?style=for-the-badge&logo=web3.js&logoColor=white" alt="Web3" />
 </div>
-
-### Frontend
 <div>
   <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" />
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
@@ -64,45 +60,8 @@ Currently on a journey to become a **Technical Architect**, combining my program
 ## 📊 GitHub Statistics
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mahardikalgw&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mahardikalgw&show_icons=true&theme=graywhite&include_all_commits=true&count_private=true"/>
 </div>
-
----
-
-## ⏱️ WakaTime Stats
-
-<!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-lightgrey)
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-0%20lines%20of%20code-blue)
-
-**🐱 My GitHub Data**
-
-> 📦 0 Used in GitHub's Storage
-> 
-> 🏆 0 Contributions in year 2024
-> 
-> 💼 Opted to Hire
-> 
-> 📜 0 Public Repository
-> 
-> 🔑 0 Private Repository
-
-**I'm an Early 🐤**
-
-```text
-🌞 Morning                0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░   0.00%
-🌆 Daytime                0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░   0.00%
-🌃 Evening                0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░   0.00%
-🌙 Night                  0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░   0.00%
-```
-
-**I Mostly Code in [Language]**
-
-```text
-[Language]                0 hrs 0 mins        ░░░░░░░░░░░░░░░░░░░░░░░░   0.00%
-```
-
-<!--END_SECTION:waka-->
 
 ---
 
@@ -110,25 +69,10 @@ Currently on a journey to become a **Technical Architect**, combining my program
 
 <div align="center">
   
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=mahardikalgw&theme=redical&hide_border=true)
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=mahardikalgw&theme=graywhite&hide_border=true)
   
 </div>
 
----
-
-## 🎯 Career Goals
-
-<div align="center">
-
-| Goal | Description |
-|------|-------------|
-| 🏗️ **Technical Architect** | Designing scalable and robust system architectures |
-| 🚀 **Blockchain Innovation** | Building next-generation decentralized applications |
-| 📈 **Technical Leadership** | Mentoring teams and driving technical excellence |
-
-</div>
-
----
 
 ## 💡 What I'm Passionate About
 
@@ -138,14 +82,3 @@ Currently on a journey to become a **Technical Architect**, combining my program
 - 📚 **Continuous Learning** - Always improving infrastructure and observability skills
 - 🤝 **Team Leadership** - Mentoring developers and fostering technical growth
 
----
-
-<div align="center">
-  
-### 🌟 Thanks for visiting my profile!
-
-![Profile Views](https://komarev.com/ghpvc/?username=mahardikalgw&color=blueviolet&style=for-the-badge&label=PROFILE+VIEWS)
-
-*Last updated: [Auto-updated via GitHub Actions]*
-
-</div>
