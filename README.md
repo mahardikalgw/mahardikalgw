@@ -59,7 +59,7 @@ Currently on a journey to become a **Technical Architect**, combining my program
 
 ## 📊 GitHub Statistics
 
-<div align="center">
+<div align="left">
   
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=mahardikalgw&show_icons=true&theme=merko)
   
