@@ -60,7 +60,9 @@ Currently on a journey to become a **Technical Architect**, combining my program
 ## 📊 GitHub Statistics
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mahardikalgw&show_icons=true&theme=graywhite&include_all_commits=true&count_private=true"/>
+  
+![Mahardika's GitHub stats](https://github-readme-stats.vercel.app/api?username=mahardikalgw&show_icons=true&bg_color=ffffff&title_color=000000&text_color=333333&icon_color=000000&border_color=cccccc&include_all_commits=true&count_private=true)
+  
 </div>
 
 ---
