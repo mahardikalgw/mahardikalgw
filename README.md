@@ -1,6 +1,6 @@
 <table>
 <tr>
-<td width="60%" valign="top">
+<td width="35%" valign="top">
 
 # 👋 Hi, I'm Mahardika
 
@@ -13,7 +13,7 @@
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
 
 </td>
-<td width="40%" valign="top" align="right">
+<td width="65%" valign="top" align="right">
 
 <img src="https://github-readme-stats.vercel.app/api?username=mahardikalgw&show_icons=true&theme=merko" alt="GitHub stats" />
 
