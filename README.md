@@ -69,7 +69,9 @@ Currently on a journey to become a **Technical Architect**, combining my program
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.demolab.com/?user=mahardikalgw&theme=radical" alt="GitHub Streak" />
+  
+![GitHub Streak](https://github-readme-streak-stats.demolab.com/?user=mahardikalgw&theme=radical)
+  
 </div>
 
 ---
