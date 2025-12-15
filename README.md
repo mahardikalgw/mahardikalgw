@@ -12,7 +12,7 @@
 </div>
 <div style="float: right; width: 60%; text-align: center;">
 
-<img src="https://github-readme-stats-three-gold-70.vercel.app/api?username=mahardikalgw&show_icons=true&theme=merko" alt="GitHub stats" />
+<img src="https://github-readme-stats.vercel.app/api?username=mahardikalgw&show_icons=true&theme=merko" alt="GitHub stats" />
 
 </div>
 <div style="clear: both;"></div>
