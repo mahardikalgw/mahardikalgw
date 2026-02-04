@@ -22,7 +22,7 @@
 
 I'm a **Software Engineer**, right now building **Pilama** product to enchantment my career. 
 
-With a strong focus on **backend development** and **blockchain technologies**, I specialize in building scalable, high-performance systems using **Node.js/TypeScript**, **Java**, and **Rust**. I also work with frontend technologies using **Next.js** to create seamless full-stack applications.
+With a strong focus on **backend engineering (infrastructure)** and **blockchain technologies**, I specialize in building scalable, high-performance systems using **Node.js/TypeScript/Bun**, **Java**, **Golang** and **Rust**. I also work with frontend technologies using **Next.js**, **React.js**, and **Angular** to create seamless full-stack applications.
 
 Currently on a journey to become a **Technical Architect**, combining my programming expertise with leadership skills to design and implement robust system architectures.
 
