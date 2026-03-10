@@ -3,7 +3,7 @@
 
 # 👋 Hi, I'm Mahardika
 
-### 🚀 Software Engineer | Backend & Blockchain Focused field
+### 🚀 Software Engineer | Platform & Low-Level Engineering
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mahardikalgw)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/mahardikalgw)
@@ -20,59 +20,36 @@
 
 ## 💼 About Me
 
-I'm a **Software Engineer**, right now building **Pilama** product to enchantment my career. 
+I'm a **Software Engineer** focused on the intersection of **Platform Engineering** and **Low-Level Systems**. I specialize in building the underlying infrastructure and high-performance services that power modern applications.
 
-With a strong focus on **backend engineering (infrastructure)** and **blockchain technologies**, I specialize in building scalable, high-performance systems using **Node.js/TypeScript/Bun**, **Java**, **Golang** and **Rust**. I also work with frontend technologies using **Next.js**, **React.js**, and **Angular** to create seamless full-stack applications.
+With a deep interest in **systems programming** and **observability**, I build scalable environments using **Go**, **Rust**, and **Node.js**. I bridge the gap between infrastructure and product by maintaining a focused full-stack capability with **Next.js** and **React**.
 
-Currently on a journey to become a **Technical Architect**, combining my programming expertise with leadership skills to design and implement robust system architectures.
+Currently evolving into a **Technical Architect**, designing robust system backbones that prioritize performance, reliability, and developer experience.
 
 --
 
 ## 🛠️ Tech Stack
 <div>
-  <!-- Languages -->
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000000" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
   <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="Go" />
   <img src="https://img.shields.io/badge/Rust-DEA584?style=for-the-badge&logo=rust&logoColor=000000" alt="Rust" />
-  <img src="https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white" alt="Ruby" />
-  <img src="https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white" alt="Solidity" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000000" alt="JavaScript" />
 
-  <!-- Backend / Runtime -->
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
   <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white" alt="Express.js" />
-  <img src="https://img.shields.io/badge/Bun-14151A?style=for-the-badge&logo=bun&logoColor=white" alt="Bun" />
-  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white" alt="Spring Boot" />
-  <img src="https://img.shields.io/badge/Ruby_on_Rails-D30001?style=for-the-badge&logo=rubyonrails&logoColor=white" alt="Ruby on Rails" />
-
-  <!-- Frontend / Web -->
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
   <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" />
-  <img src="https://img.shields.io/badge/Web3.js-F16822?style=for-the-badge&logo=web3dotjs&logoColor=white" alt="Web3.js" />
 </div>
 
-
-### Infrastructure & DevOps
+### Infrastructure & Platform
 <div>
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
   <img src="https://img.shields.io/badge/Pulumi-8A3391?style=for-the-badge&logo=pulumi&logoColor=white" alt="Pulumi" />
   <img src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white" alt="Prometheus" />
-  <img src="https://img.shields.io/badge/Chainlink-375BD2?style=for-the-badge&logo=chainlink&logoColor=white" alt="Chainlink" />
-  <img src="https://img.shields.io/badge/Mantle-000000?style=for-the-badge&logo=mantle&logoColor=white" alt="Mantle" />
-  <img src="https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=ethereum&logoColor=white" alt="Ethereum" />
-  <img src="https://img.shields.io/badge/Lightning_Network-792EE5?style=for-the-badge&logo=lightning&logoColor=white" alt="Lightning Network" />
-  <img src="https://img.shields.io/badge/Polygon-8247E5?style=for-the-badge&logo=polygon&logoColor=white" alt="Polygon" />
   <img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white" alt="Grafana" />
   <img src="https://img.shields.io/badge/OpenTelemetry-000000?style=for-the-badge&logo=opentelemetry&logoColor=white" alt="OpenTelemetry" />
-</div>
-
-### Architecture & Leadership
-<div>
   <img src="https://img.shields.io/badge/System_Design-FF6B6B?style=for-the-badge&logo=diagramsdotnet&logoColor=white" alt="System Design" />
-  <img src="https://img.shields.io/badge/Technical_Leadership-4ECDC4?style=for-the-badge&logo=trello&logoColor=white" alt="Technical Leadership" />
 </div>
-
 
 --
 
@@ -84,12 +61,9 @@ Currently on a journey to become a **Technical Architect**, combining my program
   
 </div>
 
+## 💡 Engineering Focus
 
-## 💡 What I'm Passionate About
-
-- 🔥 **Blockchain & DeFi** - Exploring decentralized technologies and smart contracts
-- 🎯 **System Architecture** - Designing scalable, maintainable, and efficient systems
-- 🚀 **Backend Excellence** - Building high-performance APIs and microservices
-- 📚 **Continuous Learning** - Always improving infrastructure and observability skills
-- 🤝 **Team Leadership** - Mentoring developers and fostering technical growth
-
+- 🏗️ **Internal Developer Platforms** - Enhancing developer velocity through automated infrastructure.
+- ⚙️ **Systems Programming** - Utilizing Go and Rust for memory-efficient, high-concurrency tools.
+- 📊 **Cloud Native Observability** - Implementing distributed tracing and metrics for complex microservices.
+- 🚀 **Performance Optimization** - Identifying bottlenecks at the system and network level.
