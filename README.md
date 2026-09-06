@@ -1,12 +1,6 @@
 <h1 align="center">Hi, I'm Muhammad Kharisma Mahardika 👋</h1>
 <h3 align="center">Software Engineer — driven by a single principle: <b>freedom through engineering</b></h3>
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/muhammadkharismam/"><img src="https://img.shields.io/badge/LinkedIn-muhammadkharismam-0A66C2?style=flat&logo=linkedin&logoColor=white" /></a>
-  <a href="https://mahardikalgw-site.vercel.app"><img src="https://img.shields.io/badge/Portfolio-mahardikalgw--site.vercel.app-000000?style=flat&logo=vercel&logoColor=white" /></a>
-  <img src="https://img.shields.io/badge/Based%20in-Balikpapan%2C%20Indonesia-orange?style=flat" />
-</p>
-
 ---
 
 ### 💼 About Me
