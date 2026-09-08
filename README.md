@@ -5,7 +5,6 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/muhammadkharismam/"><img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://mahardikalgw-site.vercel.app"><img src="https://img.shields.io/badge/PORTFOLIO-FF2E97?style=for-the-badge&logo=vercel&logoColor=white" /></a>
-  <img src="https://img.shields.io/badge/LOCATION-BALIKPAPAN__ID-FFD700?style=for-the-badge&logoColor=black" />
 </p>
 
 ```bash
